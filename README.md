@@ -23,4 +23,4 @@ python main.py --data_name=yahooR3
 ```
 
 ## Cite
-comming soon...
+comming soon..
