@@ -1,4 +1,4 @@
-<img width="725" alt="image" src="https://github.com/GabyUSTC/DIRL/assets/47773237/629f544c-88b9-48fc-bfde-c265cbe9c8b0"># Discriminative-Invariant Representation Learning for Unbiased Recommendation
+# Discriminative-Invariant Representation Learning for Unbiased Recommendation
 
 ## Introduction
 
