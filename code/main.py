@@ -11,7 +11,7 @@ import csv
 
 if __name__ == '__main__':
     print('explicit feedback')
-    print('cross entropy')
+    print('cross entropy loss')
     print('no batch')
     print('o_emb_ex_restrict_dann_var')
     res_per_se = []

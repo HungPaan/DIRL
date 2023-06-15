@@ -6,7 +6,10 @@ In this project, we provide a novel discriminative-invariant representation lear
 
 ## Environment
 
-We provide the environment that our code depends on in DIRL_env.ymal.
+We provide the environment that our code depends on in DIRL_env.ymal. To install the conda environment, run
+```bash
+conda env create -f DIRL_env.ymal
+```
 
 ## Dataset
 
