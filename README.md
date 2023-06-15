@@ -18,3 +18,6 @@ We provide the environment that our code depends on in DIRL_env.ymal.
 ```bash
 python main.py --data_name=yahooR3
 ```
+
+## Cite
+comming soon...
