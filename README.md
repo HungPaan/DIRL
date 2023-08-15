@@ -22,8 +22,5 @@ conda env create -f DIRL_env.ymal
 python main.py --data_name=yahooR3
 ```
 
-## Cite
-comming soon...
-
-## Acknowledgement
-.....
+## Notes
+Only the code for the performance comparison experiment is available to the public at this time. The other experiments will be shared once they have been organized and finalized.
